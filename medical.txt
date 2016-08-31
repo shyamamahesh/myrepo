@@ -11,7 +11,7 @@
 <div>
 <div align="center" bgcolor="#000000"><h1>MEDI CARE</h1><div>
 <div>
-<table>
+<table style="height: 41px;" width="627" bgcolor="#8FA5FF">
 <tr>
 <td><strong><span style="color: blue; font-size: small;">Home</span></strong></td>
 <td><strong><span style="color: blue; font-size: small;">About us</span></strong></td>
