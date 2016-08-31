@@ -1,31 +1,43 @@
- 
-
- 
 <html>
-<head>
- 
-<title>MEDI CARE </title>
- 
- 
+<title>Untitled Document</title>
 </head>
- 
-<body bgcolor="#E6E6FA">
+
+<body bgcolor="fff">
 <div>
-<div align="center", bgcolor="#000000"><h1>MEDI CARE</h1><div>
+<div  style="background-color:#09C;"><h2><font color="#CCCCCC">MEDI CARE</font></h2></div>
 <div>
-<table style="height: 59px;" width="577" bgcolor="#8FA5FF">
+<table width="665" style="font-style:normal; background-color:#09C" >
 <tbody>
 <tr  >
-<td><strong><span style="color: blue; font-size: small;">Home</span></strong></td>
-<td><strong><span style="color: blue; font-size: small;">About us</span></strong></td>
-<td><strong><span style="color: blue; font-size: small;">Our service</span></strong></td>
-<td><strong><span style="color: blue; font-size: small;">Our Doctors</span></strong></td>
-<td><strong><span style="color: blue; font-size: small;">career</span></strong></td>
-</tr>
+<td st width="118" align="center"><strong><span style="color:#003366 ; font-size: small;">Home</span></strong></td>
+<td width="118" align="center"><strong><span style="color: #003366; font-size: small;">About us</span></strong></td>
+<td width="121" align="center"><strong><span style="color: #003366; font-size: small;">Our service</span></strong></td>
+<td width="96" align="center"><strong><span style="color: #003366; font-size: small;">Our Doctors</span></strong></td>
+<td width="146" align="center"><strong><span style="color: #003366; font-size: small;">Appointment</span></strong></td>
+
 </tbody>
-</table> 
-<img src="dr1.jpg" alt=""  width="1024", height="600"/>
+</table>
+</div> 
+<diV>
+<div>
+<img src="health.jpg" width="663"/>
+
 </div>
+</diV></div>
+
+</div>
+</div>
+
+<div>
+<table>
+<tr>
+<td><img src="clock.jpg" width="92" height="78" />24X7 SERVICES</td>
+
+<td><img src="advice.jpg" width="181" height="133" />CARE ADVICES</td></tr>
+<tr><td>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</td>
+<td>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</td></tr></table>
+
+
  </div>
 </body>
 </html>
