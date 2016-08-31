@@ -1,0 +1,26 @@
+ 
+<html>
+<head>
+ 
+<title>MEDI CARE </title>
+ 
+ 
+</head>
+ 
+<body bgcolor="#E6E6FA">
+<div>
+<div align="center" bgcolor="#000000"><h1>MEDI CARE</h1><div>
+<div>
+<table>
+<tr>
+<td>About Us</td>
+<td>Our Doctors</td>
+<td>OurServices</td>
+<td>Conact us</td>
+<td>Career</td>
+</tr>
+</table>
+</div>
+ </div>
+</body>
+</html>
