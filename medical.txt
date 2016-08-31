@@ -1,4 +1,6 @@
  
+
+ 
 <html>
 <head>
  
@@ -9,17 +11,20 @@
  
 <body bgcolor="#E6E6FA">
 <div>
-<div align="center" bgcolor="#000000"><h1>MEDI CARE</h1><div>
+<div align="center", bgcolor="#000000"><h1>MEDI CARE</h1><div>
 <div>
-<table style="height: 41px;" width="627" bgcolor="#8FA5FF">
-<tr>
+<table style="height: 59px;" width="577" bgcolor="#8FA5FF">
+<tbody>
+<tr  >
 <td><strong><span style="color: blue; font-size: small;">Home</span></strong></td>
 <td><strong><span style="color: blue; font-size: small;">About us</span></strong></td>
 <td><strong><span style="color: blue; font-size: small;">Our service</span></strong></td>
 <td><strong><span style="color: blue; font-size: small;">Our Doctors</span></strong></td>
 <td><strong><span style="color: blue; font-size: small;">career</span></strong></td>
 </tr>
-</table>
+</tbody>
+</table> 
+<img src="dr1.jpg" alt=""  width="1024", height="600"/>
 </div>
  </div>
 </body>
